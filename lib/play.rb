@@ -37,4 +37,7 @@ end
 
 # Define your play method below
 
-#play 
+#play starts the game
+def play
+  
+end
