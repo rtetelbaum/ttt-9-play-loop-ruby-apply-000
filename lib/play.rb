@@ -40,6 +40,7 @@ end
 #play starts the game
 def play(board)
   turns_played = 0
-  turn(board) until turns_played == 9
+  until turns_played == 9
+  
   turns_played += 1
 end
