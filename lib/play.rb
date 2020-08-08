@@ -39,5 +39,6 @@ end
 
 #play starts the game
 def play(board)
+  turns_played = 0
   
 end
