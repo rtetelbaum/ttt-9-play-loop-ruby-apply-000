@@ -38,6 +38,6 @@ end
 # Define your play method below
 
 #play starts the game
-def play
+def play(board)
   
 end
